@@ -7,25 +7,32 @@ permalink: /
 
 # Bunminster and Friends
 
-**Bunminster, Joy and Clem are rabbits living in a garden in Birmingham, UK.**
+**[Bunminster, Joy and Clem](http://bunminster.uk/the_buns/) are rabbits living in a garden in Birmingham, UK.**
 
-This website is run by their owners/servants Fiona and Pete. It will eventually contain everything they've learned about rabbits, shared for the benefit of others. We hope you find it useful!
+![](images/thegang.jpg)
 
-[**Get to know our rabbits!**](/the_buns/) 
+This website is run by their owners/servants Fiona and Pete who have been caring for rabbits since 2013. It will eventually contain everything they've learned about rabbits, shared for the benefit of others. We hope you find it useful!
+
+[**Get to know our rabbits!**](http://bunminster.uk/the_buns/) 
+
 
 ## Bunstagram
 
-We're most active in the rabbit sector of [Instagram](http://instagram.com/bunminster/) where we're friends with lots of other rabbit owners. Beyond the cute, it's a great community of mutual help and support whenever something goes wrong. 
+![](images/computer.jpg)
+
+We're very active in the bunny corner of [Instagram](http://instagram.com/bunminster/) where we're friends with lots of other rabbit owners. Beyond the cute, it's a great community of mutual help and support whenever something goes wrong. 
 
 [**Come join us!**](http://instagram.com/bunminster/) 
 
 Pics from Instagram are automatically posted to [Twitter](https://twitter.com/bunminster/) and [Tumblr](https://bunminster.tumblr.com), though we don't monitor those accounts very much. 
 
-## Rabbit Resources
+## Rabbit resources
 
-We plan to build this section over the year but for now, [here's our rabbit essentials](). 
+We plan to build this section over the year but for now, [here are our rabbit essentials](http://bunminster.uk/essentials/). 
 
 ## Support our friends
+
+![](images/fatfluffs1.jpg)
 
 We're big fans of [Fat Fluffs](http://www.fatfluffs.com/), a rabbit rescue and sanctuary near Birmingham from where we adopted Clem in 2016. If you've enjoyed following our stories, please consider [making a donation](http://www.fatfluffs.com/donate/). 
 
@@ -35,3 +42,6 @@ We're big fans of [Fat Fluffs](http://www.fatfluffs.com/), a rabbit rescue and s
 
 There are many other ways you can help Fat Fluffs. [Pete wrote a guide.](http://blog.peteashton.com/rabbits/2017/12/30/how-to-help-fat-fluffs/) 
 
+## Much more to come!
+
+Do check back over the months and see what we've added. And be sure to follow us on [Bunstagram](http://instagram.com/bunminster/)! 
