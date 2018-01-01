@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Instructions for Humans
-email: pete@peteashton.com
-phone: 07775 690 106
+title: Bunminster and Friends
+# email: pete@peteashton.com
+# phone: 07775 690 106
 description: > 
-  A new artwork by Pete Ashton.
+  Bunminter, Joy and Clem are rabbits in Birmingham, UK
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://instructionsforhumans.com" # the base hostname & protocol for your site
-twitter_username: peteashton
-
+url: "http://bunminster.uk" # the base hostname & protocol for your site
+twitter_username: bunminster
+instagram_username: bunminster
 # Build settings
 markdown: kramdown
 theme: minima
