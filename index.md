@@ -9,7 +9,7 @@ permalink: /
 
 **Bunminster, Joy and Clem are rabbits living in a garden in Birmingham, UK.**
 
-This website is run by their owners/servants Fiona and Pete and will eventually contain everything they've learned about rabbits, shared for the benefit of others. We hope you find it useful!
+This website is run by their owners/servants Fiona and Pete. It will eventually contain everything they've learned about rabbits, shared for the benefit of others. We hope you find it useful!
 
 [**Get to know our rabbits!**](/the_buns/) 
 
