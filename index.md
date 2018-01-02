@@ -5,8 +5,6 @@ permalink: /
 ## category: menu
 ---
 
-# Bunminster and Friends
-
 ### [Bunminster, Joy and Clem](http://bunminster.uk/the_buns/) are rabbits living in a garden in Birmingham, UK.
 
 ![](http://bunminster.uk/images/thegang.jpg)
