@@ -18,13 +18,13 @@ There are lots of books on rabbits out there. We can definitely recommend these 
 
 [Caring for your Companion Pet Rabbit](http://amzn.to/2CaA9gN) could do with a copy-edit but is probably the most sensible guide we've seen. We learned a lot from this ebook, and it's very cheap. Plus the cover is awesome! 
 
-[![](http://bunminster.uk/images/books-caring.jpg)](http://amzn.to/2CaA9gN)
+[![](http://bunminster.uk/images/book-caring.jpg)](http://amzn.to/2CaA9gN)
 
 
 
 [Stories Rabbits Tell](http://amzn.to/2lCYoNE) is a more in-depth book about the history of the rabbit as a wild animal, ancient symbol, pop culture icon, commercial "product" and domesticated pet. It's a great way to understand why we have semi-wild prey animals living with us and how that came to be. 
 
-[![](http://bunminster.uk/images/books-stories.jpg)](http://amzn.to/2lCYoNE)
+[![](http://bunminster.uk/images/book-stories.jpg)](http://amzn.to/2lCYoNE)
 
 * * * 
 
