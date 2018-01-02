@@ -22,6 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://bunminster.uk" # the base hostname & protocol for your site
 twitter_username: bunminster
 github_username: bunminster
+instagram_username: bunminster
 # Build settings
 markdown: kramdown
 theme: minima
