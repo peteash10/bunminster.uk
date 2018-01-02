@@ -6,17 +6,11 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% else %}
-              {{ site.title | escape }}
-            {% endif %}
-            </li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-          <li>{{ site.phone }}</li>
-        </ul>
+
+        <p>
+        <a href="{{ full_base_url }}/">Home</a>
+
+
       </div>
 
       <div class="footer-col footer-col-2">
@@ -32,15 +26,29 @@
           </li>
           
 <li>
-            <a href="https://bunminster.tumblr.com"><span class="icon icon--twitter"><img src="http://bunminster.uk/images/Tumblr-icon.png"/></span><span class="username">Tumblr</span></a>
+            <a href="https://bunminster.tumblr.com"><span class="icon icon--twitter"><img src="http://bunminster.uk/images/Tumblr-icon.png"/>&nbsp;</span><span class="username">Tumblr</span></a>
           </li>          
           
         </ul>
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>
-        <a href="{{ full_base_url }}/">Home</a>
+
+
+        <ul class="contact-list">
+          <li>
+            {% if site.author %}
+              {{ site.author | escape }}
+            {% else %}
+              {{ site.title | escape }}
+            {% endif %}
+            </li>
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li>{{ site.phone }}</li>
+        </ul>
+
+
+
       </div>
     </div>
 
