@@ -9,7 +9,7 @@ permalink: /
 
 ### [Bunminster, Joy and Clem](http://bunminster.uk/the_buns/) are rabbits living in a garden in Birmingham, UK.
 
-![](images/thegang.jpg)
+![](http://bunminster.uk/images/thegang.jpg)
 
 This website is run by their owners/servants Fiona and Pete who have been caring for rabbits since 2013. It will eventually contain everything they've learned about rabbits, shared for the benefit of others. We hope you find it useful!
 
@@ -18,7 +18,7 @@ This website is run by their owners/servants Fiona and Pete who have been caring
 
 ## Bunstagram
 
-![](images/computer.jpg)
+![](http://bunminster.uk/images/computer.jpg)
 
 We're very active in the bunny corner of [Instagram](http://instagram.com/bunminster/) where we're friends with lots of other rabbit owners. Beyond the cute, it's a great community of mutual help and support whenever something goes wrong. 
 
@@ -32,7 +32,7 @@ We plan to build this section over the year but for now, [here are our rabbit es
 
 ## Support our friends
 
-![](images/fatfluffs1.jpg)
+![](http://bunminster.uk/images/fatfluffs1.jpg)
 
 We're big fans of [Fat Fluffs](http://www.fatfluffs.com/), a rabbit rescue and sanctuary near Birmingham from where we adopted Clem in 2016. If you've enjoyed following our stories, please consider [making a donation](http://www.fatfluffs.com/donate/). 
 
