@@ -9,7 +9,7 @@ permalink: /
 
 ![](http://bunminster.uk/images/thegang.jpg)
 
-This website is run by their owners/servants Fiona and Pete who have been caring for rabbits since 2013. It will eventually contain everything they've learned about rabbits, shared for the benefit of others. We hope you find it useful!
+This website is run by their owners/servants [Fiona](http://fionacullinan.com) and [Pete](http://peteashton.com) who have been caring for rabbits since 2013. It will eventually contain everything they've learned about rabbits, shared for the benefit of others. We hope you find it useful!
 
 [**Get to know our rabbits!**](http://bunminster.uk/the_buns/) 
 
