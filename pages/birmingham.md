@@ -19,9 +19,9 @@ We had a mixed experience with [**Value Vets**](http://www.valuevets.co.uk/locat
 
 ## Shopping
 
-We've started buying our hay from [**Hungry Horse**](http://hungryhorse.org) in Earlswood. Each bale costs £5 will last our three rabbits just under a month. They also sell Readygrass at £1 per kilo and large bales of dust free woodchip. Basically, there's not much difference between a rabbit's diet and that of a horse, other than capacity, so we're now buying horse food! 
+We've started buying our hay from [**Hungry Horse**](http://hungryhorse.org) in Earlswood. Each bale costs £5 and will last our three rabbits just under a month. They also sell Readygrass at £1 per kilo and large bales of dust free woodchip. Basically, there's not much difference between a rabbit's diet and that of a horse, other than capacity, so we're now buying horse food! (While we haven't tried them, we were also recommended [Gibbs Brothers](http://gibbsbros.co.uk) in Kenilworth.) 
 
-Prior to this we were mostly buying from [**Kings Heath Pets**](http://www.kingsheathpetcentre.co.uk) who are much more expensive than the horse shops (though they usually have the best price on Selective pellets) but maybe more convenient if you're local. 
+Prior to this we were mostly buying from [**Kings Heath Pets**](http://www.kingsheathpetcentre.co.uk) who are much more expensive than the horse shops (though they usually have the best price on Selective pellets) but maybe more convenient if you're local, and are very nice people.
 
 [**Pets at Home**](http://community.petsathome.com/stores/selly-oak/), the chain in Selly Oak, is a mixed bag. Some of their stuff is good value, some is madly overpriced. But the staff are nice and we had a good experience with their vet a few years ago when our regular one was closed. They do a reasonably well priced 20kg bag of woodchip if you can't get to Earlswood. 
 
