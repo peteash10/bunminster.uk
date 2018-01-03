@@ -11,7 +11,7 @@ We live in South Birmingham in the UK. If you also live in Birmingham, you may f
 
 ## Vets 
 
-[**Oaks Vets**](http://www.oaksvetsbirmingham.co.uk) in Bournville is our vet of choice. Rebecca, the co-owner, is a small animal specialist and has confirmed she's not planning on leaving. Rebecca is calm, straight-forward, knowledgeable, and wise - we cannot recommend her enough enough! And we've never had to wait long for an appointment, which is important as rabbits can suddenly be at death's door with no notice! 
+[**Oaks Vets**](http://www.oaksvetsbirmingham.co.uk) in Bournville is our vet of choice. Rebecca, the co-owner, is a small animal specialist and has confirmed she's not planning on leaving. Rebecca is calm, straight-forward, knowledgeable, and wise - we cannot recommend her enough! And we've never had to wait long for an appointment, which is important as rabbits can suddenly be at death's door with no notice! 
 
 Before we knew of Oaks we tried a few vets. The only other one we might recommend would be [**608 Vet Practice**](http://www.608vetpractice.co.uk) in Solihull who neutered Joy, though we never used them regularly. They are a bit fancy though (Solihull is the posh bit of Birmingham).
 
