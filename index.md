@@ -26,7 +26,11 @@ Pics from Instagram are automatically posted to [Twitter](https://twitter.com/bu
 
 ## Rabbit resources
 
-We plan to build this section over the year but for now, [here are our rabbit essentials](http://bunminster.uk/essentials/). 
+We plan to build this section up over the year. So far we have: 
+
+[Rabbit Essentials](http://bunminster.uk/essentials/) - a very basic guide to keeping rabbits.
+
+[Rabbit's Guide to Birmingham](http://bunminster.uk/birmingham/) - the vets and suppliers we recommend in our home town. 
 
 ## Support our friends
 
