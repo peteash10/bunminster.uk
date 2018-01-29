@@ -44,6 +44,12 @@ We're big fans of [Fat Fluffs](http://www.fatfluffs.com/), a rabbit rescue and s
 
 There are many other ways you can help Fat Fluffs. [Pete wrote a guide.](http://blog.peteashton.com/rabbits/2017/12/30/how-to-help-fat-fluffs/) 
 
+## Weights
+
+We monitor the weight of our rabbits to check there are no problems. Since we have the data, here's a chart! 
+
+<iframe width="647" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTCsXrkEwwQ77cwEj0HXPMQG0ZHW4TpeEc3mhWI6CZtxEE1hBneJp9CXhi4iFvY2qVJscy0NtLT8Fhd/pubchart?oid=1254628106&amp;format=interactive"></iframe>
+
 ## Much more to come!
 
 Do check back over the months and see what we've added. And be sure to follow us on [Bunstagram](http://instagram.com/bunminster/)! 
