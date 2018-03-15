@@ -16,11 +16,21 @@ An endless supply. This must never run out. We use IKEA's [Variera plastic bag d
 
 Small packs of hay can be expensive so try and buy bales. We were getting half-bales for £17 from the pet shop until we discovered [Hungry Horse](http://hungryhorse.org), a horse feed shop which sells full bales for £5.50. A full bale lasts us about a month. 
 
+## Grass
+
+![](/images/grass.jpg)
+
+Grass is the purest of rabbit food. Unfortunately you need a whole meadow to satisfy one rabbit, which is why we buy dry hay, but any grass is better than no grass. 
+
+Our lawnmower is a sad, lonely thing, covered in cobwebs. The rabbits mow the lawn these days. Sometimes they eat it too hard and we have to pen off an area to recover, but we like to let them graze for at least half an hour a day. 
+
+A good trick is to cut long grass from the local park to bring home, though make sure you rinse all the dog wee off first! 
+
 ## Readigrass
 
 ![](/images/readigrass_bag.jpg)
 
-This is cut grass that has been dehydrated leaving the nutrients intact. It's a great substitute when your buns have mown the lawn down to the last blade. If you buy [the packs with a rabbit on the front](http://amzn.to/2ph4qW1) it's £5 for a kilogram, but if you buy it with a horse on the front it's £15 for 15kg (at least it is from our supplier - [Hungry Horse](http://hungryhorse.org)). That's a fifth of the price and makes it much less of a luxury food! We give our dudes a couple of handfulls three times a day during the winter, less if they have access to fresh grass. If you can get hold of cardboard egg trays they make perfect holders! 
+This is cut grass that has been dehydrated leaving the nutrients intact. It's a great substitute when your buns have mown the lawn down to the last blade and it's not grass-growing season. If you buy [the packs with a rabbit on the front](http://amzn.to/2ph4qW1) it's £5 for a kilogram, but if you buy it with a horse on the front it's £15 for 15kg (at least it is from our supplier - [Hungry Horse](http://hungryhorse.org)). That's a fifth of the price and makes it much less of a luxury food! We give our dudes a couple of handfulls three times a day during the winter, less if they have access to fresh grass. If you can get hold of cardboard egg trays they make perfect holders! 
 
 ![](/images/readigrass.jpg)
 
