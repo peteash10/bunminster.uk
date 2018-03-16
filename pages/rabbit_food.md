@@ -42,7 +42,7 @@ A good trick is to cut long grass from the local nature reserve to bring home, t
 
 Be wary of pesticides and lawn treatments. If you must use them, check if "pet friendly" includes rabbits and consider keeping them off the lawn for a few weeks. If you're gathering grass from parks and such, find areas that don't use chemicals. (Our local park has wildflower areas away from the sports pitches, for example.) 
 
-*Rabbits should be supervised when outside of their secure area. It only takes a few minutes for a fox or dog to jump a fence. We've never had trouble with cats, but our buns are quite large. Also suburban cats are idiots - countyside cats probably aren't. But a human sitting near the rabbits will keep the safe.*
+*Rabbits should be supervised when outside of their secure area. It only takes a few minutes for a fox or dog to jump a fence. We've never had trouble with cats, but our buns are quite large. Also, suburban cats are idiots - countyside cats probably aren't. But a human sitting near the rabbits will keep the safe.*
 
 ## Readigrass
 
