@@ -30,6 +30,8 @@ We plan to build this section up over the year. So far we have:
 
 [Rabbit Essentials](http://bunminster.uk/essentials/) - a very basic guide to keeping rabbits.
 
+[Rabbit Food](http://bunminster.uk/rabbit_food/) - what we feed our little dudes. ![](images/new2.gif)  
+
 [Rabbit's Guide to Birmingham](http://bunminster.uk/birmingham/) - the vets and suppliers we recommend in our home town. 
 
 ## Support our friends
