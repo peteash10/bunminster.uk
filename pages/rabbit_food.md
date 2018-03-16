@@ -74,7 +74,7 @@ This is often sold in pet shops as "rabbit food" but it should be avoided at all
 
 ## Random plants
 
-![](/images/randomplants.jpg)
+![](/images/gardenplants.jpg)
 
 Rabbits will eat pretty much anything, even if they shouldn't. We have a rabbit-safe section of the garden which is mostly lawn, and Fiona's section of the garden which has beds and plants she likes to keep alive. The rabbits are alowed in the latter in the winter under supervision to help with pruning but are chased off the bad plants. 
 
