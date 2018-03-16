@@ -50,6 +50,8 @@ This is cut grass that has been carefully dehydrated leaving the nutrients intac
 
 Pellets are a supplement, ensuring your buns get the vitamins and minerals they need. Many people give their rabbits a good portion of pellets a day, say a palm-full. Our vet says rabbits don't need them as long as they're getting everything else on this page. We like to use them as bribes to get the dudes to come in from the garden and rewards for being handled. A shake of the pellet box works wonders now! 
 
+*Do not confuse this with the cereal mixes (see below) which are evil.*
+
 We like [Selective](http://amzn.to/2FZaIUA) which is often on offer at the pet store. Just make sure you keep it on a high shelf as they *will* get into it! 
 
 ## Vegetables
@@ -66,7 +68,7 @@ The House Rabbit Society page on [Suggested Vegetables and Fruits](https://rabbi
 
 According to [rabbit.org](https://rabbit.org/suggested-vegetables-and-fruits-for-a-rabbit-diet/) there should be 10% of fruit in their fresh (ie, non-hay) diet. We don't do this religiously but we do use fruit as a treat, usually when we're eating a banana or apple ourselves. They go crazy for this and will smell fruit from the other end of the garden as soon as it's opened. Great for having otherwise shy rabbits climb over you! Banana chips are a good alternative to fresh fruit as they keep for ages but make sure they don't have sugar added. 
 
-## Cereal / Museli
+## Cereal / Museli mix
 
 ![](/images/bad-food.jpg)
 
@@ -80,7 +82,7 @@ Rabbits will eat pretty much anything, even if they shouldn't. We have a rabbit-
 
 We've ensured the garden is mostly free of the Big Bads. These include Anemones, Arrow Grass, Bluebells, Broken Fern, Burdock, Buttercups, Clover, Daffodils, Dahlia, Deadly Nightshade, Delphiniums, Fireweed, Foxglove, Hemlock, Horehound, Honeysuckle, Iris, Ivy, Jimson Weed, Lilies, Laurel, Lupine, Milkweed, Poison Hemlock, Poppies, Primrose, Snowdrops, Sweet Clover, Tarweed, Tulips and Water Hemlock. But it's easier to just keep the buns away from them. 
 
-Obviously Deadly Nightshade etc are quite serious, but most of the bulb-related plants are not, in our experience, immediately poisonous. Bunminster would not be with us if this were the case as he nibbled on a patch of bluebells before we realised he shouldn't be! We find that given the choice they'll taste the bad stuff but default to healthy. The main thing is not to present poisonous plants as food in their home. 
+Obviously Deadly Nightshade etc are quite serious, but most of the bulb-related plants are not, in our experience, immediately poisonous. Bunminster would not be with us if this were the case as he nibbled on a patch of bluebells for a year before we realised he shouldn't! We find that given the choice they'll test the bad stuff but default to healthy. The main thing is not to present poisonous plants exclusively as food. 
 
 ## Anything else?
 
