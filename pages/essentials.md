@@ -13,7 +13,7 @@ There are thousands of abandoned rabbits at sanctuaries around the world. Please
 
 ## Hay, not cereal
 
-*[See our extensive **Rabbit Food** page](http://bunminster.uk/rabbit_food/)*
+*[See our extensive **Rabbit Food** page](http://bunminster.uk/rabbit_food/)* ![](/images/new2.gif)
 
 Rabbits do not need all that fancy nonsense you can buy for them. Sure, they'll eat it all up but then they'll get fat and ill, and you don't want that. Give them an endless supply of fresh, normal hay that horses eat. This will give them nearly all the nutrition they need and keep their teeth ground down. Top this up with a daily bowl of greens (we buy curly kale) and a palm of quality pellets like [Selective](http://amzn.to/2rUo7GL) to balance the diet. If it looks like human breakfast food it's no good! 
 
