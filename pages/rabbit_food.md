@@ -48,16 +48,15 @@ This is cut grass that has been carefully dehydrated leaving the nutrients intac
 
 ![](/images/selective-rip.jpg)
 
-Pellets are a supplement, ensuring your buns get the vitamins and minerals they need. Many people give their rabbits a good portion of pellets a day, say a palm-full. Our vet says rabbits don't need them as long as they're getting everything else on this page. We like to use them as bribes and rewards to get the dudes to come in from the garden. A shake of the pellet box works wonders now! 
+Pellets are a supplement, ensuring your buns get the vitamins and minerals they need. Many people give their rabbits a good portion of pellets a day, say a palm-full. Our vet says rabbits don't need them as long as they're getting everything else on this page. We like to use them as bribes to get the dudes to come in from the garden and rewards for being handled. A shake of the pellet box works wonders now! 
 
-We like [Selective](http://amzn.to/2FZaIUA) which is often on offer at the pet store. Just make sure you keep it on a shelf as they *will* get into it! 
+We like [Selective](http://amzn.to/2FZaIUA) which is often on offer at the pet store. Just make sure you keep it on a high shelf as they *will* get into it! 
 
-
-## Greens
+## Vegetables
 
 ![](/images/greens.jpg)
 
-Once a day we give the dudes a bowl of fresh greens. Usually this is kale which is fairly cheap from the supermarket, mixed in with any suitable scraps from our own dinner. Carrot peelings, brocolli stems, etc. They can eat most of anything a human can eat, but you should be careful not to give them some things in excess. Mostly this is greens that are high in oxalic acid. Kale is low in oxalic acid which is why we default to it. 
+Once a day we give the dudes a bowl of fresh greens. Usually this is kale which is fairly cheap from the supermarket, mixed in with any suitable scraps from our own dinner. Carrot peelings, brocolli stems, etc. They can eat most of anything a human can eat, but you should be careful not to give them some things in excess. Mostly this is greens that are high in oxalic acid. Kale is low which is why we default to it. Cabbage can be high so only a leaf or two of that. 
 
 The House Rabbit Society page on [Suggested Vegetables and Fruits](https://rabbit.org/suggested-vegetables-and-fruits-for-a-rabbit-diet/) is a good, reasonable guide.
 
@@ -65,10 +64,24 @@ The House Rabbit Society page on [Suggested Vegetables and Fruits](https://rabbi
 
 ![](/images/banana.jpg)
 
-According to [rabbit.org](https://rabbit.org/suggested-vegetables-and-fruits-for-a-rabbit-diet/) there should be 10% of fruit in their fresh (ie, non-hay) diet. We don't do this religiously but we do use fruit as a treat, usually when we're eating a banana or apple ourselves. They go crazy for this and will smell a banana from the other end of the garden as soon as it's opened. Great for having otherwise shy rabbits climb over you! 
+According to [rabbit.org](https://rabbit.org/suggested-vegetables-and-fruits-for-a-rabbit-diet/) there should be 10% of fruit in their fresh (ie, non-hay) diet. We don't do this religiously but we do use fruit as a treat, usually when we're eating a banana or apple ourselves. They go crazy for this and will smell fruit from the other end of the garden as soon as it's opened. Great for having otherwise shy rabbits climb over you! Banana chips are a good alternative to fresh fruit as they keep for ages but make sure they don't have sugar added. 
 
 ## Cereal / Museli
 
 ![](/images/bad-food.jpg)
 
 This is often sold in pet shops as "rabbit food" but it should be avoided at all costs. If it's their main food source it will make them fat, lazy and unhealthy. If it's a supplement it won't add anything useful. Just say no.
+
+## Random plants
+
+![](/images/randomplants.jpg)
+
+Rabbits will eat pretty much anything, even if they shouldn't. We have a rabbit-safe section of the garden which is mostly lawn, and Fiona's section of the garden which has beds and plants she likes to keep alive. The rabbits are alowed in the latter in the winter under supervision to help with pruning but are chased off the bad plants. 
+
+We've ensured the garden is mostly free of the Big Bads. These include Anemones, Arrow Grass, Bluebells, Broken Fern, Burdock, Buttercups, Clover, Daffodils, Dahlia, Deadly Nightshade, Delphiniums, Fireweed, Foxglove, Hemlock, Horehound, Honeysuckle, Iris, Ivy, Jimson Weed, Lilies, Laurel, Lupine, Milkweed, Poison Hemlock, Poppies, Primrose, Snowdrops, Sweet Clover, Tarweed, Tulips and Water Hemlock. But it's easier to just keep the buns away from them. 
+
+Obviously Deadly Nightshade etc are quite serious, but most of the bulb-related plants are not, in our experience, immediately poisonous. Bunminster would not be with us if this were the case as he nibbled on a patch of bluebells before we realised he shouldn't be! We find that given the choice they'll taste the bad stuff but default to healthy. The main thing is not to present poisonous plants as food in their home. 
+
+## Anything else?
+
+They are many ways to feed a rabbit and while this works for us you may find a variation works better for you. Plus some rabbits have special dietary needs. The best person to ask for advice is you vet or, if you adopted, the rescue centre. 
