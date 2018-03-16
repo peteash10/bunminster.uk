@@ -6,7 +6,9 @@ permalink: /rabbit_food/
 
 # This is what we feed our rabbits. 
 
-You can get everything you need from a decent pet shop, but bear in mind that a rabbit's diet is pretty much the same as a horse, so try and find somewhere that sells hay and grass for horses. *You will save a lot of money!*
+The diet of a rabbit starts off very simple (grass, and lots of it) but quickly gets quite nuanced, not helped by much of the "rabbit food" sold commercially being bad for their health. We researched this a lot and got some good advice and now we have happy, healthy rabbits.
+
+You can get everything you need from a decent pet shop, but bear in mind that a rabbit's diet is pretty much the same as a horse, so try and find somewhere that sells hay in horse-sized quantities. *You will save a lot of money!*
 
 ## Hay
 
