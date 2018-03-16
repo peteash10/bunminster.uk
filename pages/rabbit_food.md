@@ -38,11 +38,11 @@ A good trick is to cut long grass from the local park to bring home, though make
 
 ## Readigrass
 
-![](/images/readigrass_bag.jpg)
+![](/images/readigrass.jpg)
 
 This is cut grass that has been carefully dehydrated leaving the nutrients intact. It's a great substitute when your buns have mown the lawn down to the last blade and it's not grass-growing season. If you buy [the packs with a rabbit on the front](http://amzn.to/2ph4qW1) it's £5 for a kilogram, which is crazy expensive, but if you buy it with a horse on the front it's £15 for 15kg (at least it is from our supplier - [Hungry Horse](http://hungryhorse.org)). That's a fifth of the price and makes it much less of a luxury food! We give our dudes a couple of handfulls three times a day during the winter, less if they have access to fresh grass. If you can get hold of cardboard egg trays they make perfect holders! 
 
-![](/images/readigrass.jpg)
+![](/images/readigrass_bag.jpg)
 
 ## Pellets
 
