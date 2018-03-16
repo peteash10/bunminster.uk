@@ -6,7 +6,9 @@ permalink: /rabbit_food/
 
 # This is what we feed our rabbits. 
 
-The diet of a rabbit in the wild starts off very simple (grass, and lots of it) but when domesticated can get quite nuanced, not helped by much of the "rabbit food" sold commercially being bad for their health. We researched this a lot and got some good advice and now we have happy, healthy rabbits.
+The diet of a wild rabbit is very simple (grass, and lots of it) but when domesticated it can get quite nuanced, not helped by much of the "rabbit food" sold commercially being bad for their health. 
+
+Over the years we've researched a lot and got some good advice and now we have happy, healthy rabbits.
 
 You can get everything you need from a decent pet shop, but bear in mind that a rabbit's diet is pretty much the same as a horse, so try and find somewhere that sells hay in horse-sized quantities. *You will save a lot of money!*
 
@@ -14,11 +16,11 @@ You can get everything you need from a decent pet shop, but bear in mind that a 
 
 ![](/images/hayhopper.jpg)
 
-Rabbits should always have an endless supply of fresh hay. This must never run out. It stimulates their digestive system properly and grinds their teeth as they eat. A rabbit with a bale of hay and a supply of water is a happy rabbit. 
+Rabbits should always have an endless supply of fresh, dry hay. This must never run out. It stimulates their digestive system properly and grinds their teeth as they eat. A rabbit with a bale of hay and a supply of water is a happy rabbit. 
 
-We use IKEA's [Variera plastic bag dispensers](http://www.ikea.com/gb/en/products/kitchen-products/kitchen-organisers-shelves/variera-plastic-bag-dispenser-white-art-80010222/) as hay hoppers, in front of a litter tray so they can poop as they eat. In the summer this is outside under a shelter. In the winter it's in the shed. For three rabbits we get through two loosely packed hoppers a day. 
+We use IKEA's [Variera plastic bag dispensers](http://www.ikea.com/gb/en/products/kitchen-products/kitchen-organisers-shelves/variera-plastic-bag-dispenser-white-art-80010222/) as hay hoppers, in front of a litter tray so they can poop as they eat. In the summer this is outside in their secure run under a shelter. In the winter it's in the shed. For three rabbits we get through two loosely packed hoppers a day. 
 
-Small packs of hay can be expensive so try and buy bales. We were getting half-bales for £17 from the pet shop until we discovered [Hungry Horse](http://hungryhorse.org), a horse feed shop which sells full bales for £5.50. A full bale lasts us at least a month. 
+Small packs of hay can be expensive so try and buy large bales. We were getting half-bales for £17 from the pet shop until we discovered [Hungry Horse](http://hungryhorse.org), a horse feed shop which sells full bales for £5.50. A full bale lasts us about a month. 
 
 ## Water
 
@@ -34,11 +36,13 @@ A big issue with outdoor rabbits is keeping their water unfrozen in the winter. 
 
 Grass is the purest of rabbit food. Unfortunately you need a whole meadow to satisfy a pack of rabbits, which is why we buy dry hay, but any grass is better than no grass. 
 
-Our lawnmower is a sad, lonely thing, covered in cobwebs. The rabbits mow the lawn these days. Sometimes they eat it too hard and we have to pen off an area to recover, but we like to let them graze for at least half an hour. In the summer we move the office into the garden and they're out on it all day!
+Our lawnmower is a sad, lonely thing, covered in cobwebs. The rabbits mow the lawn these days. Sometimes they eat it too hard and we have to pen off an area to recover, but we like to let them graze for at least half an hour. In the summer we move the home office into the garden so they can out on it all day!
 
 A good trick is to cut long grass from the local nature reserve to bring home, though make sure you rinse all the dog wee off first! 
 
 Be wary of pesticides and lawn treatments. If you must use them, check if "pet friendly" includes rabbits and consider keeping them off the lawn for a few weeks. If you're gathering grass from parks and such, find areas that don't use chemicals. (Our local park has wildflower areas away from the sports pitches, for example.) 
+
+*Rabbits should be supervised when outside of their secure area. It only takes a few minutes for a fox or dog to jump a fence. We've never had trouble with cats, but our buns are quite large. Also suburban cats are idiots - countyside cats probably aren't. But a human sitting near the rabbits will keep the safe.*
 
 ## Readigrass
 
