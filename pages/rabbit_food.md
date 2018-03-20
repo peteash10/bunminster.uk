@@ -38,11 +38,13 @@ Grass is the purest of rabbit food. Unfortunately you need a whole meadow to sat
 
 Our lawnmower is a sad, lonely thing, covered in cobwebs. The rabbits mow the lawn these days. Sometimes they eat it too hard and we have to pen off an area to recover, but we like to let them graze for at least half an hour. In the summer we move the home office into the garden so they can out on it all day!
 
+If you do mow your lawn **do not feed them the cuttings**. The heat from the spinning blades cutting the grass starts a fermentation process which is aparently bad for rabbits. Or so we read once. We've never risked it.
+
 A good trick is to cut long grass from the local nature reserve to bring home, though make sure you rinse all the dog wee off first! 
 
 Be wary of pesticides and lawn treatments. If you must use them, check if "pet friendly" includes rabbits and consider keeping them off the lawn for a few weeks. If you're gathering grass from parks and such, find areas that don't use chemicals. (Our local park has wildflower areas away from the sports pitches, for example.) 
 
-*Rabbits should be supervised when outside of their secure area. It only takes a few minutes for a fox or dog to jump a fence. We've never had trouble with cats, but our buns are quite large. Also, suburban cats are idiots - countyside cats probably aren't. But a human sitting near the rabbits will keep the safe.*
+*Rabbits should be supervised when outside of their secure area. It only takes a few minutes for a fox or dog to jump a fence. We've never had trouble with cats, but our buns are quite large. Also, suburban cats are idiots - countyside cats probably aren't. But a human sitting near the rabbits will keep them safe.*
 
 ## Readigrass
 
@@ -77,6 +79,14 @@ The House Rabbit Society page on [Suggested Vegetables and Fruits](https://rabbi
 ![](/images/banana.jpg)
 
 According to [rabbit.org](https://rabbit.org/suggested-vegetables-and-fruits-for-a-rabbit-diet/) there should be 10% of fruit in their fresh (ie, non-hay) diet. We don't do this religiously but we do use fruit as a treat, usually when we're eating a banana or apple ourselves. They go crazy for this and will smell fruit from the other end of the garden as soon as it's opened. Great for having otherwise shy rabbits climb over you! Banana chips are a good alternative to fresh fruit as they keep for ages but make sure they don't have sugar added. 
+
+## Tree Bark
+
+![](/images/apple-bark.jpg)
+
+Rabbits love eating certain varieties of tree bark, particularly from fruit trees. [Here's a good list of safe trees](http://bunnyproof.com/what-types-of-wood-can-rabbits-chew-on). During pruning season we put a call out to friends offering to take their branches away. 
+
+Be aware that they don't just grind their teeth on the bark, they actally eat it, so it should be treated like any other food - gradually introduced as part of a balanced diet. When we get a new batch we start them with a twig or two and build up to a 50cm or so branch per day. 
 
 ## Cereal / Muesli mix
 
