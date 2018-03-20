@@ -28,7 +28,7 @@ Small packs of hay can be expensive so try and buy large bales. We were getting 
 
 Along with hay, this is an essential that must never run out. We used to use bottles but Bunminster in particular doesn't like them, so we switched to a [water tower](http://amzn.to/2FUBRrB) refreshed once a day and it's great. 
 
-A big issue with outdoor rabbits is keeping their water unfrozen in the winter. This water tower doesn't fit in the heated section of their hutch so we put a small bowl of water in there during frosty nights. 
+A big issue with outdoor rabbits is keeping their water unfrozen in the winter. This water tower doesn't fit in the heated section of their hutch so we put a small bowl of water in there on frosty nights. 
 
 ## Grass
 
