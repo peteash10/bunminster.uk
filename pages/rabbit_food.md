@@ -18,7 +18,7 @@ You can get everything you need from a decent pet shop, but bear in mind that a 
 
 Rabbits should always have an endless supply of fresh, dry hay. This must never run out. It stimulates their digestive system properly and grinds their teeth as they eat. A rabbit with a bale of hay and a supply of water is a happy rabbit. 
 
-We use IKEA's [Variera plastic bag dispensers](http://www.ikea.com/gb/en/products/kitchen-products/kitchen-organisers-shelves/variera-plastic-bag-dispenser-white-art-80010222/) as hay hoppers, in front of a litter tray so they can poop as they eat. In the summer this is outside in their secure run under a shelter. In the winter it's in the shed. For three rabbits we get through two loosely packed hoppers a day. 
+We use IKEA's [Variera plastic bag dispensers](http://www.ikea.com/gb/en/products/kitchen-products/kitchen-organisers-shelves/variera-plastic-bag-dispenser-white-art-80010222/) as hay hoppers (You can get them from eBay resellers for £5-ish if you can't get to IKEA), in front of a litter tray so they can poop as they eat. In the summer this is outside in their secure run under a shelter. In the winter it's in the shed. For three rabbits we get through two loosely packed hoppers a day. 
 
 Small packs of hay can be expensive so try and buy large bales. We were getting half-bales for £17 from the pet shop until we discovered [Hungry Horse](http://hungryhorse.org), a horse feed shop which sells full bales for £5.50. A full bale lasts us about a month. 
 
