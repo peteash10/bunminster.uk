@@ -50,7 +50,7 @@ There are many other ways you can help Fat Fluffs. [Pete wrote a guide.](http://
 
 We monitor the weight of our rabbits to check there are no problems. Since we have the data, here's a chart! 
 
-<iframe width="647" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTCsXrkEwwQ77cwEj0HXPMQG0ZHW4TpeEc3mhWI6CZtxEE1hBneJp9CXhi4iFvY2qVJscy0NtLT8Fhd/pubchart?oid=1254628106&amp;format=interactive"></iframe>
+<div class="vid"><iframe width="647" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTCsXrkEwwQ77cwEj0HXPMQG0ZHW4TpeEc3mhWI6CZtxEE1hBneJp9CXhi4iFvY2qVJscy0NtLT8Fhd/pubchart?oid=1254628106&amp;format=interactive"></iframe></div>
 
 ## Much more to come!
 
