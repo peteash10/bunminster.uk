@@ -52,6 +52,12 @@ We monitor the weight of our rabbits to check there are no problems. Since we ha
 
 <iframe width="647" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTCsXrkEwwQ77cwEj0HXPMQG0ZHW4TpeEc3mhWI6CZtxEE1hBneJp9CXhi4iFvY2qVJscy0NtLT8Fhd/pubchart?oid=1254628106&amp;format=interactive"></iframe>
 
+## Their Home
+
+We'll be writing a page on housing outdoor rabbits soon, but for now here's a video guide to our current setup. 
+
+<div class="vid"><iframe src="https://player.vimeo.com/video/261334566" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+
 ## Much more to come!
 
 Do check back over the months and see what we've added. And be sure to follow us on [Bunstagram](http://instagram.com/bunminster/)! 
