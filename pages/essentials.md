@@ -22,6 +22,10 @@ Rabbits do not need all that fancy nonsense you can buy for them. Sure, they'll 
 
 Dudes gotta run! Ours live in a big 6ft hutch inside a shed with 24-hour access to a 12x6ft aviary which they can run around in. We also give them at least half an hour outside on the lawn to get their motors really firing. Indoor rabbits should have full access to at least one decent sized room. There is nothing more awesome than watching your rabbit run free, as nature intended.
 
+Here's a video of our current setup: 
+
+<div class="vid"><iframe src="https://player.vimeo.com/video/261334566" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+
 
 ## Save your pennies
 
