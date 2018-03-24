@@ -20,7 +20,7 @@ Rabbits should always have an endless supply of fresh, dry hay. This must never 
 
 We use IKEA's [Variera plastic bag dispensers](http://www.ikea.com/gb/en/products/kitchen-products/kitchen-organisers-shelves/variera-plastic-bag-dispenser-white-art-80010222/) as hay hoppers (You can get them from eBay resellers for £5-ish if you can't get to IKEA), in front of a litter tray so they can poop as they eat. In the summer this is outside in their secure run under a shelter. In the winter it's in the shed. For three rabbits we get through two loosely packed hoppers a day. 
 
-Small packs of hay can be expensive so try and buy large bales. We were getting half-bales for £17 from the pet shop until we discovered [Hungry Horse](http://hungryhorse.org), a horse feed shop which sells full bales for £5.50. A full bale lasts us about a month. 
+Small packs of hay can be expensive and of shockingly low quality so try and buy large bales as fresh from the farm as possible. We were getting decent quality half-bales for £17 from the pet shop until we discovered [Hungry Horse](http://hungryhorse.org), a horse feed shop which sells full bales from their own field for £5.50. A full bale lasts us about a month and the rabbits love it. 
 
 ## Water
 
@@ -44,13 +44,13 @@ A good trick is to cut long grass from the local nature reserve to bring home, t
 
 Be wary of pesticides and lawn treatments. If you must use them, check if "pet friendly" includes rabbits and consider keeping them off the lawn for a few weeks. If you're gathering grass from parks and such, find areas that don't use chemicals. (Our local park has wildflower areas away from the sports pitches, for example.) 
 
-*Rabbits should be supervised when outside of their secure area. It only takes a few minutes for a fox or dog to jump a fence. We've never had trouble with cats, but our buns are quite large. Also, suburban cats are idiots - countyside cats probably aren't. But a human sitting near the rabbits will keep them safe.*
+*Rabbits should be supervised when outside of their secure area. It only takes a few minutes for a fox or dog to jump a fence. We've never had trouble with cats, as our buns are quite large and suburban cats are idiots, but countyside cats probably aren't. A human sitting near the rabbits will keep them safe.*
 
 ## Readigrass
 
 ![](/images/readigrass.jpg)
 
-This is cut grass that has been carefully dehydrated leaving the nutrients intact. It's a great substitute when your buns have mown the lawn down to the last blade and it's not grass-growing season. If you buy [the packs with a rabbit on the front](http://amzn.to/2ph4qW1) it's £5 for a kilogram, which is crazy expensive, but if you buy it with a horse on the front it's £15 for 15kg (at least it is from our supplier - [Hungry Horse](http://hungryhorse.org)). That's a fifth of the price and makes it much less of a luxury food! We give our dudes a couple of handfuls three times a day during the winter, less if they have access to fresh grass. If you can get hold of cardboard egg trays they make perfect holders! 
+This is cut grass that has been carefully dehydrated leaving the nutrients intact. It's a great substitute when your buns have mown the lawn down to the last blade and it's not grass-growing season. If you buy [the packs with a rabbit on the front](http://amzn.to/2ph4qW1) it's £5 for a kilogram, which is crazy expensive, but if you buy it with a horse on the front it's £15 for 15kg (at least it is from our supplier - [Hungry Horse](http://hungryhorse.org)). That's a fifth of the price and makes it much less of a luxury food! We give our dudes a few handfuls a day during the winter, less if they have access to fresh grass. 
 
 ![](/images/readigrass_bag.jpg)
 
@@ -92,7 +92,7 @@ Be aware that they don't just grind their teeth on the bark, they actally eat it
 
 ![](/images/bad-food.jpg)
 
-This is often sold in pet shops as "rabbit food" but it should be avoided at all costs. If it's their main food source it will make them fat, lazy and unwell. If it's a supplement it won't add anything useful. Just say no.
+This is often sold in shops as "rabbit food" but it should be avoided at all costs. If it's their main food source it will make them fat, lazy and unwell. If it's a supplement it won't add anything useful. Just say no.
 
 ## Random plants
 
@@ -102,7 +102,7 @@ Rabbits are curious explorers and always hungry so will eat pretty much anything
 
 We have a rabbit-safe section of the garden which is mostly lawn, and Fiona's section of the garden which has beds and plants she likes to keep alive. The rabbits are allowed in the latter in the winter under supervision to help with pruning but are chased off the bad plants. 
 
-We've ensured the garden is mostly free of the Big Bads. In a normal garden this might include Bluebells, Broken Fern, Burdock, Buttercups, Clover, Daffodils, Dahlia, Delphiniums, Fireweed, Foxglove, Honeysuckle, Iris, Ivy, Lilies, Laurel, Poppies, Primrose, Snowdrops, Sweet Clover or Tulips. ([Here's a handy PDF guide](http://www.prideveterinarycentre.co.uk/Userfiles/Healthcare%20Information%20Sheets/Poisonous%20Plants%20For%20Rabbits.pdf)) But it's easier to just keep the buns away from them. 
+We've ensured Fiona's garden is mostly free of the Big Bads. In a normal garden this might include Bluebells, Broken Fern, Burdock, Buttercups, Clover, Daffodils, Dahlia, Delphiniums, Fireweed, Foxglove, Honeysuckle, Iris, Ivy, Lilies, Laurel, Poppies, Primrose, Snowdrops, Sweet Clover or Tulips. ([Here's a handy PDF guide](http://www.prideveterinarycentre.co.uk/Userfiles/Healthcare%20Information%20Sheets/Poisonous%20Plants%20For%20Rabbits.pdf)) But it's easier to just keep the buns away from them. 
 
 We find that given the choice they'll test the bad stuff but default to healthy - after a few minutes being chased off the beds they'll be happily devouring the lawn. The main risk is when poisonous plants are presented as food by people who don't know better. 
 
