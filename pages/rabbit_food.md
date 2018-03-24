@@ -86,7 +86,7 @@ According to [rabbit.org](https://rabbit.org/suggested-vegetables-and-fruits-for
 
 Rabbits love eating certain varieties of tree bark, particularly from fruit trees. [Here's a good list of safe trees](http://bunnyproof.com/what-types-of-wood-can-rabbits-chew-on). During pruning season we put a call out to friends offering to take their branches away. 
 
-Be aware that they don't just grind their teeth on the bark, they actally eat it, so it should be treated like any other food - gradually introduced as part of a balanced diet. When we get a new batch we start them with a twig or two and build up to a 50cm or so branch per day. 
+Be aware that they don't just grind their teeth on the bark, they actually eat it, so it should be treated like any other food - gradually introduced as part of a balanced diet. When we get a new batch we start them with a twig or two and build up to a 50cm or so branch per day. 
 
 ## Cereal / Muesli mix
 
