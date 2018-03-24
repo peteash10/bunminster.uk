@@ -108,6 +108,6 @@ We find that given the choice they'll test the bad stuff but default to healthy 
 
 ## Anything else?
 
-They are many ways to feed a rabbit and while this works for us you may find a variation works better for you. Some rabbits have special dietary needs. The best person to ask for advice is you vet or, if you adopted, the rescue centre. 
+They are many ways to feed a rabbit and while this works for us you may find a variation works better for you. Some rabbits have special dietary needs. The best person to ask for advice is your vet or, if you adopted, the rescue centre. 
 
 But, in the words of our first vet, the golden rule for feeding rabbits is hay and grass, topped up with grass and hay. Plus plenty of water. You can't go wrong with that. 
