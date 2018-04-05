@@ -41,7 +41,7 @@ Local sanctuaries we haven't visited but would be worth checking out:
 
 [**Hopper Haven**](http://www.hopperhaven.org.uk/index.html) in Redditch. ([FB](https://www.facebook.com/groups/137386079872/))
 
-[**Bramblerabbitrescue**](https://www.facebook.com/Bramblerabbitrescue/) in Wolverhampton.
+[**Bramble Rabbit Rescue**](https://www.facebook.com/Bramblerabbitrescue/) in Wolverhampton.
 
 If you're not in the West Midlands have a look on the [Rabbit Rehome website](http://www.rabbitrehome.org.uk/centres.asp) for a sanctuary near you. 
 
