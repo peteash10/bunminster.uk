@@ -17,7 +17,7 @@ There are thousands of abandoned rabbits at sanctuaries around the world. Please
 
 **Rescue Me Bunny** is a nice service on [Twitter](https://twitter.com/rescuemebunny) & [Facebook](https://www.facebook.com/pg/RescueMeBunny/) that features rabbits from across the country that need homes. 
 
-Locally (Birmingham, UK) we recommend [Fat Fluffs](http://www.fatfluffs.com) and [Wythall Rescue](http://wythallanimalsanctuary.org.uk/animal/rabbit/) See our [Birmingham Guide](http://bunminster.uk/birmingham/) for more. 
+Locally (Birmingham, UK) we recommend [Fat Fluffs](http://www.fatfluffs.com) and [Wythall Rescue](http://wythallanimalsanctuary.org.uk/animal/rabbit/). See our [Birmingham Guide](http://bunminster.uk/birmingham/) for more. 
 
 ## Hay, not cereal
 
