@@ -9,7 +9,15 @@ Over the next year we plan on documenting everything we know about rabbits for t
 
 ## Adopt, don't shop
 
-There are thousands of abandoned rabbits at sanctuaries around the world. Please visit one before buying a farmed baby from a pet shop or an online ad. Locally (Birmingham, UK) we recommend [Fat Fluffs](http://www.fatfluffs.com) and [Wythall Rescue](http://wythallanimalsanctuary.org.uk/animal/rabbit/) but there's bound to me a rescue centre near you. **Rescue Me Bunny** is a nice service on [Twitter](https://twitter.com/rescuemebunny) & [Facebook](https://www.facebook.com/pg/RescueMeBunny/) that features rabbits from across the country that need homes. 
+There are thousands of abandoned rabbits at sanctuaries around the world. Please visit one before buying a farmed baby from a pet shop or an online ad. 
+
+[**Rabbit Rehome**](http://www.rabbitrehome.org.uk) is a website listing rabbits available for adoption across the UK. They also have a [directory of rescue centres](http://www.rabbitrehome.org.uk/centres.asp) which looks pretty comprehensive.
+
+[**The RSPCA**](https://www.rspca.org.uk/) has [rescue centres across the country](https://www.rspca.org.uk/whatwedo/yourlocal) and [lists all their animals for adoption](https://www.rspca.org.uk/findapet#onSubmitSetHere) on the website. 
+
+**Rescue Me Bunny** is a nice service on [Twitter](https://twitter.com/rescuemebunny) & [Facebook](https://www.facebook.com/pg/RescueMeBunny/) that features rabbits from across the country that need homes. 
+
+Locally (Birmingham, UK) we recommend [Fat Fluffs](http://www.fatfluffs.com) and [Wythall Rescue](http://wythallanimalsanctuary.org.uk/animal/rabbit/) See our [Birmingham Guide](http://bunminster.uk/birmingham/) for more. 
 
 ## Hay, not cereal
 
