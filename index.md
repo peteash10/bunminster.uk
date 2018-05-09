@@ -7,7 +7,7 @@ permalink: /
 
 ### [Bunminster and Clem](http://bunminster.uk/the_buns/) are rabbits living in a garden in Birmingham, UK.
 
-![](http://bunminster.uk/images/thegang.jpg)
+![](http://bunminster.uk/images/dude_and_clem.jpg)
 
 This website is run by their owners/servants [Fiona](http://fionacullinan.com) and [Pete](http://peteashton.com) who have been caring for rabbits since 2013. It will eventually contain everything they've learned about rabbits, shared for the benefit of others. We hope you find it useful!
 
