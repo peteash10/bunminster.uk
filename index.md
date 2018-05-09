@@ -46,12 +46,6 @@ We're big fans of [Fat Fluffs](http://www.fatfluffs.com/), a rabbit rescue and s
 
 There are many other ways you can help Fat Fluffs. [Pete wrote a guide.](http://blog.peteashton.com/rabbits/2017/12/30/how-to-help-fat-fluffs/) 
 
-## Weights
-
-We monitor the weight of our rabbits to check there are no problems. Since we have the data, here's a chart! 
-
-![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTCsXrkEwwQ77cwEj0HXPMQG0ZHW4TpeEc3mhWI6CZtxEE1hBneJp9CXhi4iFvY2qVJscy0NtLT8Fhd/pubchart?oid=1254628106&format=image)
-
 ## Their Home
 
 We'll be writing a page on housing outdoor rabbits soon, but for now here's a video guide to our current setup. 
