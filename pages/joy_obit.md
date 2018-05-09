@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Joy Obituary
+title: Goodbye Sweet Joy
 permalink: /joy_obit/
 
 ---
@@ -20,7 +20,7 @@ Every moment since her rescue has been a gift so while we're heartbroken and wis
 
 ## The Story of Joy
 
-*The following was written by Fiona and posted to Instagram in 10 installments.* 
+*The following was written by Fiona and posted to Instagram in 10 instalments.* 
 
 ![](../images/joy_obit_1.jpg)
 
@@ -31,6 +31,8 @@ Here she is in our garden, petrified and looking for a way out. This was the fir
 ![](../images/joy_obit_2.jpg)
 
 The story of Joy continues as she makes headlines about buns being abandoned at Easter... but is then scooped by Bunminster playing football!
+
+***
 
 ![](../images/joy_obit_3.jpg)
 
@@ -46,7 +48,7 @@ Here we are helping our little rescue bun to get to know us through the cunning 
 
 ![](../images/joy_obit_5.jpg)
 
-It was hate at first sight when these two met. Bunminster felt his territory was threatened; Joy had come from who knows where and had been abandoned in some woodland. We had to keep them separate until she was neutered. Then we tried to bond them and there was a nasty fight. So we took them to @fat_fluffs to bond with other rabbits in a group - and, oh the irony, these two fell head over heels for each other. It was the last thing we expected but the snuggles wouldn’t end - Bunminster needed endless under-chin attention and Joy was a licking addict. It was a match made in bunny heaven.
+It was hate at first sight when these two met. Bunminster felt his territory was threatened; Joy had come from who knows where and had been abandoned in some woodland. We had to keep them separate until she was neutered. Then we tried to bond them and there was a nasty fight. So we took them to [Fat Fluffs](http://www.fatfluffs.com) to bond with other rabbits in a group - and, oh the irony, these two fell head over heels for each other. It was the last thing we expected but the snuggles wouldn’t end - Bunminster needed endless under-chin attention and Joy was a licking addict. It was a match made in bunny heaven.
 
 ***
 
@@ -70,7 +72,7 @@ The story of Joy is as much about the effect she had on those around her as abou
 
 ![](../images/joy_obit_9.jpg)
 
-this is the day she became a snow queen, diving and bounding through the snow, stopping to check for hidden greens and racing the other two down the long garden. Who knows what capacity for joy rabbits have but in the two years we had Joy, she lived up to her name -there were a whole lot of high speed runs, binkies and snow jumping to go with all the licking and snuggling. She was usually first to explore and quite fearless but she also had a lot of mad moments when those crazy rabbit hormones took hold. Go JoyJoy! Binky free little one. ❤️🌈🐰
+This is the day she became a snow queen, diving and bounding through the snow, stopping to check for hidden greens and racing the other two down the long garden. Who knows what capacity for joy rabbits have but in the two years we had Joy, she lived up to her name -there were a whole lot of high speed runs, binkies and snow jumping to go with all the licking and snuggling. She was usually first to explore and quite fearless but she also had a lot of mad moments when those crazy rabbit hormones took hold. Go JoyJoy! Binky free little one. ❤️🌈🐰
 
 ***
 
