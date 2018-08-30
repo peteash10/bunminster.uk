@@ -28,7 +28,9 @@ Rabbits do not need all that fancy nonsense you can buy for them. Sure, they'll 
 
 ## A hutch is not enough
 
-Dudes gotta run! Ours live in a big 6ft hutch inside a shed with 24-hour access to a 6x9ft aviary which they can run around in. We also give them at least half an hour supervised outside on the lawn to get their motors really firing. Indoor rabbits should have full access to at least one decent sized room. There is nothing more awesome than watching your rabbit run free, as nature intended.
+Buns gotta run! Ours live in a big 6ft hutch inside a shed with 24-hour access to a 6x12ft aviary which they can run around in. We also give them at least half an hour supervised outside on the lawn to get their motors really firing. Indoor rabbits should have full access to at least 60 sq ft of a room (not a cage). There is nothing more awesome than watching your rabbit run free, as nature intended.
+
+[*The Big Rabbit Hutch*](http://www.thebigrabbithutch.co.uk) is a fantastic resource for planning and buying your rabbit accomodation, inside or out. 
 
 Here's a video of our current setup: 
 
@@ -37,7 +39,7 @@ Here's a video of our current setup:
 
 ## Save your pennies
 
-Rabbits are expensive pets, particularly at the vets. We currently budget about £600 a year medical expenses for three dudes, which is totally worth it of course.
+Rabbits are expensive pets, particularly at the vets. We currently budget about £200 a year medical expenses for each rabbit, which is totally worth it of course.
 
 ## Books
 
