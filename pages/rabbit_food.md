@@ -36,7 +36,7 @@ A big issue with outdoor rabbits is keeping their water unfrozen in the winter. 
 
 Grass is the purest of rabbit food. Unfortunately you need a whole meadow to satisfy a pack of rabbits, which is why we buy dry hay, but any grass is better than no grass. 
 
-Our lawnmower is a sad, lonely thing, covered in cobwebs. The rabbits mow the lawn these days. Sometimes they eat it too hard and we have to pen off an area to recover, but we like to let them graze for at least half an hour. In the summer we move the home office into the garden so they can out on it all day!
+Our lawnmower is a sad, lonely thing, covered in cobwebs. The rabbits mow the lawn these days. Sometimes they eat it too hard and we have to pen off an area to recover, but we like to let them graze for at least half an hour. In the summer we move the home office into the garden so they can be out on it all day!
 
 If you do mow your lawn **do not feed them the cuttings**. The heat from the spinning blades cutting the grass starts a fermentation process which is aparently bad for rabbits. Or so we read once. We've never risked it.
 
